@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "770E9833691A62B0EAAB3F381581FE890BD21601",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "770E9833691A62B0EAAB3F381581FE890BD21601" : 9223372036854775807,
+    "89FE43A25742E0F927012FCE07035176D1A0B53C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "684753A7-F13F-4260-A90D-0AA69F3E647E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "770E9833691A62B0EAAB3F381581FE890BD21601" : "SDC-T2-P2\/",
+    "89FE43A25742E0F927012FCE07035176D1A0B53C" : "udacity-term2\/P2\/CarND-Unscented-Kalman-Filter-Project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UnscentedKF",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CarND-Unscented-Kalman-Filter-Project\/ide_profiles\/xcode\/UnscentedKF.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qitong\/SDC-T2-P2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "770E9833691A62B0EAAB3F381581FE890BD21601"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/udacity\/CarND-Unscented-Kalman-Filter-Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89FE43A25742E0F927012FCE07035176D1A0B53C"
+    }
+  ]
+}
